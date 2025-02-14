@@ -1,7 +1,7 @@
 
 # Telegram Notification Bot
 
-Este projeto é um **bot de notificações** no Telegram, criado para enviar mensagens automatizadas para um chat ou grupo do Telegram usando o **Python** e a biblioteca `python-telegram-bot`. Além disso, ele é empacotado e gerido com o **Poetry** e pode ser compilado em um executável com **PyInstaller**.
+Este projeto é um **bot de notificações** no Telegram, criado para enviar mensagens automatizadas para um chat ou grupo do Telegram usando o **Python** e a biblioteca `python-telegram-bot`. Além disso, ele é empacotado e gerido com o **Poetry** e pode ser compilado em um executável com **PyInstaller**. Foi gerado um arquivo executável para exemplificação dessa aplicação.
 
 ## Funcionalidades
 
