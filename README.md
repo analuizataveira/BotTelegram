@@ -83,14 +83,3 @@ poetry run pyinstaller --onefile main.py
 
 Isso criará um executável na pasta `dist/` que pode ser rodado sem a necessidade de um ambiente Python.
 
-## Como Contribuir
-
-1. Faça um **fork** do projeto.
-2. Crie uma **branch** para a sua funcionalidade (`git checkout -b minha-feature`).
-3. Faça o **commit** das suas alterações (`git commit -am 'Adicionando nova funcionalidade'`).
-4. Envie para o **branch** do seu repositório (`git push origin minha-feature`).
-5. Abra um **pull request**.
-
-## Licença
-
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
