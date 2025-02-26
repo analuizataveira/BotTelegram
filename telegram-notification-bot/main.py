@@ -38,7 +38,7 @@ async def main():
     Função principal que executa o envio de uma notificação de teste.
     """
     # Mensagem de exemplo
-    message = "Olá, este é um teste de notificação do bot!"
+    message = "0lá, 3st3 é um t3st3 d3 n0tificaçã0 d0 b0t!"
     await send_notification(message)  # Chama a função para enviar a notificação
 
 if __name__ == "__main__":
